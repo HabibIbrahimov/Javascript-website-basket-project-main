@@ -1,0 +1,13 @@
+body{
+    background-color: navajowhite;
+}
+.card-title {
+    margin-bottom: 50px;
+}
+.btn{
+   background-color:black;
+}
+.fa-trash-alt
+{
+    cursor: pointer;
+}
